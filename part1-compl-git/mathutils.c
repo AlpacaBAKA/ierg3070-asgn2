@@ -11,3 +11,5 @@ int multiply(int a, int b) {
 void print_result(int result) {
    printf("Result: %d\n", result);
 }
+
+//q4.2

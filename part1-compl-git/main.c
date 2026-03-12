@@ -10,3 +10,5 @@ int main(){
     print_result(product);
     return 0;
 }
+
+//q4.2
